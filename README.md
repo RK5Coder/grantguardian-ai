@@ -45,38 +45,6 @@ GrantGuardian AI is an advanced Streamlit application that leverages 4 specializ
 
 ---
 
-## Architecture
-
-┌─────────────────┐
-│  File Upload    │
-│  (PDF/CSV)      │
-└────────┬────────┘
-         ▼
-┌─────────────────┐
-│  Text Extraction│
-└────────┬────────┘
-         ▼
-┌─────────────────────────────────────────┐
-│         4 AI Agents (Venice AI)         │
-│  ┌─────────┐ ┌─────────┐ ┌─────────┐  │
-│  │ Review  │ │ Budget  │ │  Risk   │  │
-│  │  Agent  │ │  Agent  │ │  Agent  │  │
-│  └────┬────┘ └────┬────┘ └────┬────┘  │
-│       └─────────────┼─────────────┘     │
-│                     ▼                   │
-│              ┌─────────┐                │
-│              │ Decision│                │
-│              │  Agent  │                │
-│              └────┬────┘                │
-└─────────────────┼───────────────────────┘
-                  ▼
-        ┌─────────────────┐
-        │  Streamlit UI   │
-        │  + Dashboard    │
-        └─────────────────┘
-
----
-
 ## Technologies Used
 - ## Frontend: Streamlit
 - ## AI/ML: Venice AI API (OpenAI-compatible)
