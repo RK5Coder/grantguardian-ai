@@ -41,7 +41,7 @@ GrantGuardian AI is an advanced Streamlit application that leverages 4 specializ
 
 ## 🚀 Live Demo
 
-**[Click here to view live app](STREAMLIT_URL_HERE)**
+**[Click here to view live app](https://grantguardian-ai-rk5.streamlit.app/)**
 
 ---
 
@@ -59,7 +59,7 @@ GrantGuardian AI is an advanced Streamlit application that leverages 4 specializ
 
 ### Prerequisites
 - Python 3.9+
-- Venice AI API Key ([Get one here](https://venice.ai/))
+- Venice AI API Key 
 
 ### Setup
 
