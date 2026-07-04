@@ -43,6 +43,7 @@ GrantGuardian AI is an advanced Streamlit application that leverages 4 specializ
 
 **[Click here to view live app](https://grantguardian-ai-rk5.streamlit.app/)**
 
+Youtube link for demo video - https://youtu.be/Gfc2s5f3jHU?si=g7vHqmQjli0IhsVT
 ---
 
 ## Technologies Used
