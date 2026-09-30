@@ -62,6 +62,9 @@ Youtube link for demo video - https://youtu.be/Gfc2s5f3jHU?si=g7vHqmQjli0IhsVT
 - Python 3.9+
 - Venice AI API Key 
 
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
 ### Setup
 
 1. Clone the repository:
